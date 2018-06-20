@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu go - Energized Go!
-# Version: 18.06.170
+# Version: 18.06.171
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
-# Last updated: Tue, 19 Jun 18 11:39:35
-# Total Domains: 84639
+# Last updated: Wed, 20 Jun 18 04:01:25
+# Total Domains: 84627
 
 
 # -================-Maintainer-================-
@@ -4919,7 +4919,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adexview.new-star.co.kr
 0.0.0.0 adf.dahe.cn
 0.0.0.0 adf.ero-advertising.com
-0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adfarm.lidkopingsnytt.nu
 0.0.0.0 adfarm.mediaplex.com
@@ -4932,8 +4931,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adflash.affairsclub.com
 0.0.0.0 adflight.com
 0.0.0.0 adflow.orbitcycle.com
-0.0.0.0 adfoc.us
-0.0.0.0 adfocus.ru
 0.0.0.0 adforati.com
 0.0.0.0 adforce.ads.imgis.com
 0.0.0.0 adforce.adtech.de
@@ -21196,7 +21193,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clients.adventmedia.net
 0.0.0.0 clients.bluecava.com
 0.0.0.0 clients.internetsalesresults.com
-0.0.0.0 clients.l.google.com
 0.0.0.0 clients.pointroll.com
 0.0.0.0 clients.rootsecure.org
 0.0.0.0 clients.tbo.com
@@ -36613,7 +36609,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotslutz.com
 0.0.0.0 hotspot.cz
 0.0.0.0 hotspotint.dk
-0.0.0.0 hotspotshield.com
 0.0.0.0 hotstar.pubnub.net
 0.0.0.0 hotstar.worldgravity.com
 0.0.0.0 hotstreams.de
@@ -37690,7 +37685,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.parked.com
 0.0.0.0 images.paypal.com
 0.0.0.0 images.people2people.com
-0.0.0.0 images.performgroup.com
 0.0.0.0 images.persgroepadvertising.be
 0.0.0.0 images.popupsponsor.com
 0.0.0.0 images.primaryads.com
@@ -42431,7 +42425,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 linkadd.de
 0.0.0.0 linkarena.com
 0.0.0.0 linkbeat.info
-0.0.0.0 linkbucks.com
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkcounter.com
 0.0.0.0 linkcounter.pornosite.com
@@ -53425,7 +53418,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pic.jdunion.com
 0.0.0.0 pic.moad.cn
 0.0.0.0 pic.neiyicun.net
-0.0.0.0 pic.pic-img.com
 0.0.0.0 pic.punchbox.org
 0.0.0.0 pic.starsarabian.com
 0.0.0.0 pic.tokyo-tube-ad.com
@@ -59275,7 +59267,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.zeroredirect.com
 0.0.0.0 s.zixuntop.com
 0.0.0.0 s.zlongad.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 s001.monerise.com
 0.0.0.0 s002.monerise.com
 0.0.0.0 s003.monerise.com
@@ -73691,7 +73682,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wapstart.ru
 0.0.0.0 wapster.malutki.pl
 0.0.0.0 wapster.pl
-0.0.0.0 waptrick.com
 0.0.0.0 wapwbclick.mobile.sina.cn
 0.0.0.0 war.thinkerwealth.com
 0.0.0.0 warco.pl
@@ -78887,7 +78877,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hotlinecsgo.com
 0.0.0.0 www.hotlog.ru
 0.0.0.0 www.hotranks.com
-0.0.0.0 www.hotspotshield.com
 0.0.0.0 www.housecallsantivirus.com
 0.0.0.0 www.howtocleanacomputervirus.com
 0.0.0.0 www.howtotroll.org
@@ -79466,7 +79455,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.link.krxd.net
 0.0.0.0 www.link2bet.com
 0.0.0.0 www.linkads.de
-0.0.0.0 www.linkbucks.com
 0.0.0.0 www.linkbucksmedia.com
 0.0.0.0 www.linkbuddies.com
 0.0.0.0 www.linkconnector.com
