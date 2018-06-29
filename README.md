@@ -4,10 +4,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-18.06.176-blue.svg?longCache=true&style=flat-square"
-      alt="18.06.176" />
+    <img src="https://img.shields.io/badge/Version-18.06.180-blue.svg?longCache=true&style=flat-square"
+      alt="18.06.180" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Jun 25, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Jun 29, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-beta-yellow.svg?longCache=true&style=flat-square"
@@ -57,6 +57,10 @@
     <a href="https://t.me/EnergizedProtection">
       Telegram
     </a>
+    <span> | </span>
+    <a href="https://elbo.in/energizedxda">
+      XDA
+    </a>
   </h3>
 </div>
 
@@ -86,8 +90,8 @@ Energized Blu has got two variants minding `lower-end` to `higher-end` mobile de
 
 Package | Entries | RAW | TXT | Domains| Compressed | Flashable | Magisk | Windows BAT | DNSMasq | DNSMasq IPV6 | Unbound
 ----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Blu | **241607** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) (6.1M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt) (6.1M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt) (4.5M) |  [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.zip) (3.0M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_windows.zip) (1.6M) | [CONF](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu.conf) (8.4M) | [CONF IPV6](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu-ipv6.conf) (7.5M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-unbound.conf) (20M)
-Blu go | **85108** |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt) (2.3M) | - | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.zip) (614K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_magisk.zip) (620K) | - | - | - | -
+Blu | **242704** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) (6.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt) (6.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt) (4.6M) |  [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.zip) (3.1M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_windows.zip) (1.6M) | [CONF](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu.conf) (8.5M) | [CONF IPV6](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu-ipv6.conf) (7.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-unbound.conf) (20M)
+Blu go | **85171** |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt) (2.3M) | - | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.zip) (615K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_magisk.zip) (621K) | - | - | - | -
 
 **Expectation**: These unified hosts files should serve all devices, regardless
 of OS.
@@ -100,7 +104,7 @@ Package | **Energized Magisk** | **Windows Uninstaller** |
 ---------:|:---------:|:---------:|
 Detail | All-In-One Energized Hosts Magisk Module. | Windows Hosts Uninstaller. |
 Repo | [LINK](https://github.com/EnergizedProtection/EnergizedMagisk) | - |
-Download | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/Magisk/EnergizedMagisk.zip) (30KB) | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Uninstaller/EnergizedUninstaller_Windows.zip) (1KB) |
+Download | Magisk Manager | [LINK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Uninstaller/EnergizedUninstaller_Windows.zip) (1KB) |
 
 ## Mirror
 
