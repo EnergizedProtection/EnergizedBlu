@@ -4,10 +4,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-18.06.180-blue.svg?longCache=true&style=flat-square"
-      alt="18.06.180" />
+    <img src="https://img.shields.io/badge/Version-18.06.181-blue.svg?longCache=true&style=flat-square"
+      alt="18.06.181" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Jun 29, 2018-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-Jun 30, 2018-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-beta-yellow.svg?longCache=true&style=flat-square"
@@ -90,8 +90,8 @@ Energized Blu has got two variants minding `lower-end` to `higher-end` mobile de
 
 Package | Entries | RAW | TXT | Domains| Compressed | Flashable | Magisk | Windows BAT | DNSMasq | DNSMasq IPV6 | Unbound
 ----------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
-Blu | **242704** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) (6.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt) (6.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt) (4.6M) |  [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.zip) (3.1M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_windows.zip) (1.6M) | [CONF](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu.conf) (8.5M) | [CONF IPV6](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu-ipv6.conf) (7.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-unbound.conf) (20M)
-Blu go | **85171** |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt) (2.3M) | - | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.zip) (615K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_magisk.zip) (621K) | - | - | - | -
+Blu | **243065** | [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu) (6.2M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.txt) (6.2M) | [LIST](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt) (4.6M) |  [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu.zip) (3.1M) | [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_android.zip) (2.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_magisk.zip) (1.6M) | [BAT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_windows.zip) (1.6M) | [CONF](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu.conf) (8.5M) | [CONF IPV6](https://github.com/EnergizedProtection/EnergizedBlu/blob/master/energized/blu-ipv6.conf) (7.6M) | [CONF](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-unbound.conf) (20M)
+Blu go | **85196** |  [RAW](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go) (2.3M) | [TXT](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.txt) (2.3M) | - | [ZIP](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go.zip) (615K)| [ANDROID](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_android.zip) (1.1M) | [MAGISK](https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go_magisk.zip) (621K) | - | - | - | -
 
 **Expectation**: These unified hosts files should serve all devices, regardless
 of OS.
@@ -129,6 +129,7 @@ included:
 
 Host file source | Description | Home page | Raw hosts | License |
 -----------------|-------------|:---------:|:---------:|:---------:|
+1Hosts | A merged hosts file from a variety of other lists. | [LINK](https://forum.xda-developers.com/android/general/badmojr-one-host-file-to-block-t3713360) | [RAW](http://1hosts.cf/) | All Rights Reserved |
 adblock-nocoin-list | Block lists to prevent JavaScript miners | [LINK](https://github.com/hoshsadiq/adblock-nocoin-list/) | [RAW](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) | MIT |
 AdguardFilters | AdGuard Ad Blocking Filters https://adguard.com/ |[LINK](https://github.com/AdguardTeam/AdguardFilters) | [RAWs](https://github.com/AdguardTeam/AdguardFilters) | CC BY-SA 3.0 |
 add.2o7Net | 2o7Net tracking sites based on [hostsfile.org](http://www.hostsfile.org/hosts.html) content. |[LINK](https://github.com/FadeMind/hosts.extras) | [RAW](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts) | GPLv3+ |
@@ -147,6 +148,7 @@ EasyPrivacy | Tracking Blockings. | [LINK](https://easylist.to/) | [RAW](https:/
 hBlock | Improve your security and privacy by blocking ads, tracking and malware domains. | [LINK](https://hblock.molinero.xyz/) | [RAW](https://hblock.molinero.xyz/hosts) | MIT |
 KADhosts | Fraud/adware/scam websites. |[LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | GPLv3 |
 MoaAB: Mother of All AD-BLOCKING |  Hosts file to block advertisements and trackers designed for Android | [LINK](https://forum.xda-developers.com/showthread.php?t=1916098) | [RAW](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/adblock.mahakala.is/master/output/hosts/ACTIVE/hosts) | RESTRICTED |
+MobileAdTrackers | Taken from DNS logs, formatted in hostfile and other formats. | [LINK](https://github.com/jawz101/MobileAdTrackers) | [RAW](https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts) | FREE OF CHARGE |
 No Tracking - Hosts Blocklist | Automatically updated, moderated and optimized lists for blocking ads, trackers and other online garbage. |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | UNKNOWN |
 NSABlocklist | HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers. | [LINK](https://github.com/CHEF-KOCH/NSABlocklist) | [RAW](https://github.com/CHEF-KOCH/NSABlocklist/raw/master/HOSTS) | MIT |
 someonewhocares - Dan Pollock | How to make the internet not suck (as much). |[LINK](http://someonewhocares.org/hosts/) | [RAW](http://someonewhocares.org/hosts/zero/hosts) | Non-Commercial with Attribution |

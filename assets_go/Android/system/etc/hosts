@@ -3,11 +3,11 @@
 # https://ador.chorompotro.com
 
 # Energized Blu go - Energized Go!
-# Version: 18.06.180
+# Version: 18.06.181
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
-# Last updated: Fri, 29 Jun 18 07:21:01
-# Total Domains: 85171
+# Last updated: Sat, 30 Jun 18 07:55:28
+# Total Domains: 85196
 
 
 # -================-Maintainer-================-
@@ -13820,6 +13820,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auto-windabweiser.de
 0.0.0.0 auto-zapchasti.org
 0.0.0.0 auto.allewagen.de
+0.0.0.0 auto.mehan-pardazesh.ir
 0.0.0.0 auto.monerise.com
 0.0.0.0 auto.rusvile.lt
 0.0.0.0 auto2000.ru
@@ -18480,6 +18481,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c9.statcounter.com
 0.0.0.0 c9.video-ak.cdn.spotify.com
 0.0.0.0 ca-meds.com
+0.0.0.0 ca-sas-bahiapromocoesjuninas.esy.es
 0.0.0.0 ca.2.cqcounter.com
 0.0.0.0 ca.5.p2l.info
 0.0.0.0 ca.5173car.com
@@ -21255,6 +21257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-admin.rg2.qa-dest.imprev.net
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-api.essads.com
+0.0.0.0 client-center-account-update-security-service.a1049rfjewigf.tresquarteres.cat
 0.0.0.0 client-center-account-update-service.a1049rfjewigfe4w9grigrj.half-dress.net
 0.0.0.0 client-dmp.suishenyun.cn
 0.0.0.0 client-event-reporter.twitch.tv
@@ -21623,6 +21626,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 cn.img.adon.vpon.com
 0.0.0.0 cn01.dwstat.cn
 0.0.0.0 cn2.adserver.yahoo.com
+0.0.0.0 cn54tfw0kw.fgppchg.fgpp.com
+0.0.0.0 cn773bt054.fgppchg.fgpp.com
 0.0.0.0 cn85240.tmweb.ru
 0.0.0.0 cnad.economicoutlook.net
 0.0.0.0 cnad1.economicoutlook.net
@@ -22387,6 +22392,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 content.s8bbs.com
 0.0.0.0 content.seerealgirls.com
 0.0.0.0 content.staging.imprev.net
+0.0.0.0 content.streamplay.to
 0.0.0.0 content.surpax.net
 0.0.0.0 content.swrve.com
 0.0.0.0 content.synapsys.us
@@ -24625,6 +24631,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dabcc.us.intellitxt.com
 0.0.0.0 dabiank.netsons.org
 0.0.0.0 dabulamanzi.co.za
+0.0.0.0 dacash.streamplay.to
 0.0.0.0 dad-and-daughter.com
 0.0.0.0 dadf.com
 0.0.0.0 dadobet.com
@@ -25607,6 +25614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dev.appboy.com
 0.0.0.0 dev.appleleafabstracting.com
 0.0.0.0 dev.beverlyseip.ca
+0.0.0.0 dev.cenov.fr
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dev.comstockcompanies.com
 0.0.0.0 dev.cryptobara.com
@@ -26220,6 +26228,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dl.kinbest.cn
 0.0.0.0 dl.kjava.sina.cn
 0.0.0.0 dl.mbsea.com
+0.0.0.0 dl.meliacloud.com
 0.0.0.0 dl.microsword.net
 0.0.0.0 dl.ncbuy.com
 0.0.0.0 dl.neodownload.webcam
@@ -27634,6 +27643,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ea.rueducommerce.fr
 0.0.0.0 ea.zebestof.com
 0.0.0.0 eab18fo.epizy.com
+0.0.0.0 eacash.streamplay.to
 0.0.0.0 eaccnj.org
 0.0.0.0 eachdayisagift.review
 0.0.0.0 ead-soft.popunder.ru
@@ -30838,6 +30848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fghuhiolugkyfjthddtjfykgjlhk.000webhostapp.com
 0.0.0.0 fgnfdfthrv.bee.pl
 0.0.0.0 fgoogle.com
+0.0.0.0 fgppdc1.fgppchg.fgpp.com
 0.0.0.0 fgppterminal.fgppchg.fgpp.com
 0.0.0.0 fgtkmcby02.eu
 0.0.0.0 fgts-caixa.esy.es
@@ -30890,6 +30901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fidelove.com
 0.0.0.0 fidgetspinner.5v.pl
 0.0.0.0 fidicaldesk006.000webhostapp.com
+0.0.0.0 fido-overcharging.easydepodirect7ca.com
 0.0.0.0 fidspinner.pl
 0.0.0.0 fieldtrip.edina.ac.uk
 0.0.0.0 fiestamusic.se
@@ -46456,6 +46468,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 microsoft81.webnode.com
 0.0.0.0 microsoftconsumermarketing.112.2o7.net
 0.0.0.0 microsofteup.112.2o7.net
+0.0.0.0 microsoftexchangeeltu6.890m.com
 0.0.0.0 microsoftgamestudio.112.2o7.net
 0.0.0.0 microsoftinternetexplorer.112.2o7.net
 0.0.0.0 microsoftlive.000webhostapp.com
@@ -52860,6 +52873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paypal.com.akbidmuhammadiyahcrb.ac.id
 0.0.0.0 paypal.com.confirmations.refund.purchase.jelmal.org
 0.0.0.0 paypal.com.ecoteh.org
+0.0.0.0 paypal.com.enrichingcreations.com
 0.0.0.0 paypal.com.es.webapps.mpp.home.almouta3alim.com
 0.0.0.0 paypal.com.es.webapps.mpp.home.servicio.almouta3alim.com
 0.0.0.0 paypal.com.iman.com.pk
@@ -58677,6 +58691,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rexafajay.axfree.com
 0.0.0.0 rey3935.112.2o7.net
 0.0.0.0 rezrezwhistler.112.2o7.net
+0.0.0.0 rfaguvqdurjdout.fgppchg.fgpp.com
 0.0.0.0 rfemfxnm.cz.cc
 0.0.0.0 rfga5e4gn545.altervista.org
 0.0.0.0 rfihub.net
@@ -60024,6 +60039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sack.net
 0.0.0.0 sackabare.ac.ke
 0.0.0.0 sacredphoenix.com
+0.0.0.0 sacrilegious-gasket.000webhostapp.com
 0.0.0.0 sact.atdmt.com
 0.0.0.0 sacurity-centre-2017.000webhostapp.com
 0.0.0.0 sacurity-info-notifiction2018.000webhostapp.com
@@ -60245,6 +60261,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 safetyfb2018.000webhostapp.com
 0.0.0.0 safflepastorat.se
 0.0.0.0 safnis.is
+0.0.0.0 safra.moduloativo.com
 0.0.0.0 safsaf1992.000webhostapp.com
 0.0.0.0 sagack.com
 0.0.0.0 sage-tech.com
@@ -64588,6 +64605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sputniknews.com
 0.0.0.0 spw-school.com
 0.0.0.0 spwon.com
+0.0.0.0 spwu9iu4.apps.lair.io
 0.0.0.0 spx.owneriq.net
 0.0.0.0 spy-app.info
 0.0.0.0 spy-sts.com
@@ -69140,6 +69158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 torarica.se
 0.0.0.0 torax.outwar.com
 0.0.0.0 torgi.kz
+0.0.0.0 torieselamstromoredungroibansk-omnivorous-largeness.mybluemix.net
 0.0.0.0 torjackan.info
 0.0.0.0 torney-hj.de
 0.0.0.0 toro-tags.com
@@ -71112,6 +71131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 u4luk.com
 0.0.0.0 u5234.87.spylog.com
 0.0.0.0 u5234.98.spylog.com
+0.0.0.0 u532344488.hostingerapp.com
 0.0.0.0 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 0.0.0.0 u555u.info
 0.0.0.0 u5687.48.spylog.com
@@ -71807,6 +71827,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 updat120.clanteam.com
 0.0.0.0 update-1.com
 0.0.0.0 update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.np
+0.0.0.0 update-account-infos.mysepaducloud.com
 0.0.0.0 update-account-payments.lawunioninsurance.com
 0.0.0.0 update-account.2017-support.team.comerv0.webs0801cr-cm-lgint-id-l0gin-subpp1-login-login-yah.dgryapi.com
 0.0.0.0 update-account.3dpotret.com
@@ -72617,6 +72638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vcs3pzysrk75b5ime64j.alfacomercial.com.br
 0.0.0.0 vcsa.vmware.com
 0.0.0.0 vcu.collserve.com
+0.0.0.0 vcuwyfoocergpjx.fgppchg.fgpp.com
 0.0.0.0 vcxz.pl
 0.0.0.0 vd-p-r-o-x-y.ri.la
 0.0.0.0 vd.l.qq.com
@@ -74517,6 +74539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webinars.intercom.io
 0.0.0.0 webinars.urbanairship.com
 0.0.0.0 webindexxg.temp.swtest.ru
+0.0.0.0 webinfoor.craym.eu
 0.0.0.0 webinfotech.net
 0.0.0.0 webinline-usage.streamesh.net
 0.0.0.0 webinline.look4like.com
@@ -74897,6 +74920,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 weshapelife.org
 0.0.0.0 wesharepics.com
 0.0.0.0 wesharepics.info
+0.0.0.0 wesre4554tterunionfrancislouis.000webhostapp.com
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 west.bidtellect.com
 0.0.0.0 west.indianmedicalsupplies.org
@@ -84194,6 +84218,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 y.zeroredirect.com
 0.0.0.0 y0.extreme-dm.com
 0.0.0.0 y1.extreme-dm.com
+0.0.0.0 y1.spreton.com
 0.0.0.0 y2k.hitbox.com
 0.0.0.0 y3.ifengimg.com
 0.0.0.0 y3djfo.best.pershoretaxis.co.uk
