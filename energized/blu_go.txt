@@ -6,7 +6,7 @@
 # Version: 18.06.181
 # Project Git: https://github.com/EnergizedProtection/EnergizedBlu
 # RAW Source: https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go
-# Last updated: Sat, 30 Jun 18 08:04:17
+# Last updated: Sat, 30 Jun 18 08:08:56
 # Total Domains: 85551
 
 
@@ -61188,7 +61188,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk-api-ssl.playhaven.com
 0.0.0.0 sdk-api.yozio.com
 0.0.0.0 sdk-assets.localytics.com
-0.0.0.0 sdk-b.apptordnado.com
+0.0.0.0 sdk-b.apptornado.com
 0.0.0.0 sdk-config.fyber.com
 0.0.0.0 sdk-controller.widespace.com
 0.0.0.0 sdk-orion.appboy.com
