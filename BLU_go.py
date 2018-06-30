@@ -17,6 +17,7 @@ Sources = [
 	'https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedHosts',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
 	'http://someonewhocares.org/hosts/zero/',
+  'https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/ZeusTracker.txt',
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts',
 	'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Converter/Hosts/AdguardMobileSpyware.txt',

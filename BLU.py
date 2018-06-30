@@ -16,7 +16,7 @@ Sources = [
 	'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts',
 	'http://someonewhocares.org/hosts/zero/',
 	'https://hblock.molinero.xyz/hosts',
-  'http://1hosts.cf/',
+  'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/1HostsCF/1hosts.cf.txt',
   'https://raw.githubusercontent.com/EnergizedProtection/EnergizedTools/master/Mirror/MoaAB/MoaAB.active.txt',
 	'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt',
 	'https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts',
